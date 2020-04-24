@@ -1,0 +1,12 @@
+c:\users\jd\documents\visual studio 2015\Projects\homeScreen\homeScreen\bin\Debug\homeScreen.exe.config
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\bin\Debug\homeScreen.exe
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\bin\Debug\homeScreen.pdb
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.csprojResolveAssemblyReference.cache
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.Form1.resources
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.Properties.Resources.resources
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.csproj.GenerateResource.Cache
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.exe
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.pdb
+C:\Users\JD\documents\visual studio 2015\Projects\homeScreen\homeScreen\obj\Debug\homeScreen.Form2.resources
